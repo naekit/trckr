@@ -5,7 +5,7 @@
       "text": "test",
       "other": "no-show",
       "day": "monday",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Test4",
@@ -14,10 +14,22 @@
       "id": 3
     },
     {
-      "text": "Task6",
-      "day": "Thursday",
-      "reminder": true,
+      "text": "do smth",
+      "day": "now",
+      "reminder": false,
       "id": 4
+    },
+    {
+      "text": "do more",
+      "day": "always",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "do everything",
+      "day": "non stop",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
